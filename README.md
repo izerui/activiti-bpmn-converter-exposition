@@ -12,5 +12,11 @@ activiti bpmn xml converter 源码解析
 =====================
 
 待续，暂时参看 
+-
 https://www.github.com/xuhuisheng/activiti-demo/
+
+
+
 自定义解析器 comment
+-
+https://github.com/xuhuisheng/activiti-demo/commit/37784e3c6c2cc9f258585093d23c149c21dc08b9
