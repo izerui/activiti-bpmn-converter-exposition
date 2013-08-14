@@ -3,9 +3,9 @@ activiti-bpmn-converter-exposition
 
 activiti bpmn xml converter 源码解析
 
-![结构图](https://github.com/izerui/activiti-bpmn-converter-exposition/blob/master/20130814152119.png)
+![结构图](https://github.com/izerui/activiti-bpmn-converter-exposition/blob/master/20130814152119.png?raw=true)
 
-![层次分析](https://github.com/izerui/activiti-bpmn-converter-exposition/blob/master/20130814152130.png)
+![层次分析](https://github.com/izerui/activiti-bpmn-converter-exposition/blob/master/20130814152130.png?raw=true)
 
 
 如何扩展自定义xml属性
